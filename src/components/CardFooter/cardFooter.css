@@ -1,0 +1,26 @@
+.card-footer{
+    background-color:#161619;
+  }
+  
+  .cardFooter-container{
+    display:flex;
+    justify-content: space-between;
+  }
+  
+  .btn-outline-danger{
+    --bs-btn-color:#d33e84;
+    --bs-btn-border-color:#d33e84;
+    --bs-btn-hover-bg: #d33e84;
+    --bs-btn-hover-border-color: #d33e84;
+    --bs-btn-active-bg: #d33e84;
+    --bs-btn-active-border-color: #d33e84;
+  }
+  
+  .btn-outline-success{
+    --bs-btn-color:#542479;
+    --bs-btn-border-color:#542479;
+    --bs-btn-hover-bg: #542479;
+    --bs-btn-hover-border-color: #542479;
+    --bs-btn-active-bg: #542479;
+    --bs-btn-active-border-color: #542479;
+  }

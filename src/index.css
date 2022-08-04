@@ -6,4 +6,25 @@ body{
 
 .card{
   width:18rem;
+  margin:12px auto 0;
 }
+
+.card-body{
+  background-color:#1A1B21;
+  color:white;
+}
+
+.--card-title{
+  color:green;
+  font-size:2em;
+  text-align:center;
+  margin:5px 0px;
+}
+
+.--card-profession{
+  text-align:center;
+  margin:0px 0px;
+  font-size:.8em;
+}
+
+.--card-site{}

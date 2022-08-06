@@ -21,10 +21,20 @@ body{
   margin:5px 0px;
 }
 
-.--card-profession{
+.--card-profession, .--card-site{
   text-align:center;
   margin:0px 0px;
   font-size:.8em;
 }
 
-.--card-site{}
+.--card-site{
+  margin-bottom:10px;
+}
+
+.--card-email{
+  margin-bottom:20px;
+}
+
+.card  h2{
+  font-size:1.5em;
+}
